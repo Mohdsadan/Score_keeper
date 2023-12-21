@@ -1,0 +1,30 @@
+#root{
+    text-align: center;
+    background-color: darkgray;
+    border-radius: 15px;
+}
+
+div h1{
+    color: rgb(55, 68, 30);
+    background-color: rgb(154, 222, 222);
+    border-radius: 80%;
+}
+
+#root p {
+
+    color: rgb(2, 16, 81);
+    background-color: aliceblue;
+    font-size: larger;
+}
+
+div button{
+    border: none;
+    text-align: center;
+    margin: 2%;
+    cursor: pointer;
+    border-radius: 10px;
+    background-color: khaki;
+    width: 70px;
+    height: 40px;
+    font-size: larger;
+}
